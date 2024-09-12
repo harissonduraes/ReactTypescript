@@ -1,5 +1,17 @@
 # React + TypeScript + Vite
 
+É usado o back MVC_API na branch animals para pegar os dados 
+
+## Para executar
+- ``npm install --save @emotion/styled``
+- ``npm run dev``
+
+## Para Criar
+- ``npm create vite@latest .``
+- ``npm install``
+- ``npm install --save @emotion/styled``
+- ``npm run dev``
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
